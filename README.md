@@ -5,7 +5,7 @@ This modpack requires tModloader 64bit follow this video to learn how to install
 [![Official tModLoader 64bit Installation Guide!](https://img.youtube.com/vi/XL-HlxrWNfU/0.jpg)](https://www.youtube.com/watch?v=XL-HlxrWNfU "Official tModLoader 64bit Installation Guide!")
 
 ## Modpack Installation:
-1. Load up tModLoader
+1. Load up tModLoader(64-Bit)
 2. Go to "Mods"
 3. At the bottom, hit: "Open Mods Folder"
 4. Open the `Mod Packs\` folder within your `Mods\` folder
